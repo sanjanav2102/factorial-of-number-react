@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanjanav2102/factorial-of-number-react/static/css/main.2331c383.css",
+    "main.js": "/sanjanav2102/factorial-of-number-react/static/js/main.52068083.js",
+    "static/js/453.21a10b3b.chunk.js": "/sanjanav2102/factorial-of-number-react/static/js/453.21a10b3b.chunk.js",
+    "index.html": "/sanjanav2102/factorial-of-number-react/index.html",
+    "main.2331c383.css.map": "/sanjanav2102/factorial-of-number-react/static/css/main.2331c383.css.map",
+    "main.52068083.js.map": "/sanjanav2102/factorial-of-number-react/static/js/main.52068083.js.map",
+    "453.21a10b3b.chunk.js.map": "/sanjanav2102/factorial-of-number-react/static/js/453.21a10b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2331c383.css",
+    "static/js/main.52068083.js"
+  ]
+}
